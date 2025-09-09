@@ -1,35 +1,28 @@
-p {
-    color: red;
+body {
+    background-color: rgb(0, 0, 0);
+
+
+
 }
 
+
+p {
+color: red
+
+
+}
+
+
+
+
 h1 {
-    color: red;
+color: red
+
+
 }
 
 h2 {
-    color: red;
-}
+color: red
 
 
-body {
-    background-color: black;
-}
-
-ul {
-    color: red;
-}
-
-ul2 {
-    color: black;
-}
-
-section {
-    background-color: red;
-    color: black;
-    padding: 20px 50px;
-    
-}
-
-hr {
-    color: blue;
 }
